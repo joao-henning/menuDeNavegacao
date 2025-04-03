@@ -25,3 +25,7 @@ a{
     text-decoration: none;
     color: black;
 }
+    a:hover{
+        border-bottom: 2px solid black;
+        front-size: 20pt
+    }
