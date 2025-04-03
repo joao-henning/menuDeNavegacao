@@ -27,5 +27,5 @@ a{
 }
     a:hover{
         border-bottom: 2px solid black;
-        front-size: 20pt
+        font-size: 20pt
     }
